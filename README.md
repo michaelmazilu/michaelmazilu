@@ -653,3 +653,4 @@ Open To:
 <div align="center">
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=150&section=footer&color=0:8B5CF6,35:6D28D9,70:312E81,100:0D1117" alt="Footer" />
 </div>
+
